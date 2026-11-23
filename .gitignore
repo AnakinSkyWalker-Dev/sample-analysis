@@ -1,0 +1,24 @@
+.cache
+.venv
+__pycache__/
+*.py[cod]
+*.log
+
+out/*
+!out/.gitkeep
+
+imgs_results/*
+!imgs_results/.gitkeep
+
+Artigos
+
+Cerâmica/*
+!Cerâmica/.gitkeep
+
+MDF/*
+!MDF/.gitkeep
+
+Vidro/*
+!Vidro/.gitkeep
+
+Whatsapp Image*
